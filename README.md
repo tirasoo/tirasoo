@@ -1,4 +1,7 @@
-## Hi World ...... am Tiras👋
+## Hi there
+
+I'm Tiras, a holder of a Bachelor's Degree in Software Development with specialization in Java.
+
 
 <!--
 **tirasoo/tirasoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
