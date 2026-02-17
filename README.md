@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 😊
 
 I'm Tiras, a holder of a Bachelor's Degree in Software Development with specialization in Java.
 I have: 
