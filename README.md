@@ -8,6 +8,7 @@ I have:
 4. Experience in Version Control systems: Git,Github
 5. A solid Understanding of object oriented programming with languages like Java and/or C#,C++,C, and Python 
 6. Understanding of SDLC and the Agile development Process
+7. Experience designing,developing and maintaining web-applications that support business objectives and clients projects 
 
 
 
